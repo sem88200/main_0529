@@ -1,0 +1,13 @@
+@charset "utf-8";
+
+/* #main {text-align:center;width:100%;margin-bottom:80px;}
+#main img{width:100%;max-width:1300px;} */
+
+/* #box {width:630px; margin:0 auto; padding:30px;border:2px solid lightblue;} */
+#box {width:40%; margin-right:50px; padding:30px 20px;float:right;position:absolute;top:0;right:0;border:2px solid lightblue;}
+#box section {width:80%; margin:0 auto;padding-left:15%;}
+#box section h2{padding:10px 0;color:#494949;}
+fieldset {width:80%;margin:20px 0;font-size:.8rem;}
+.btn_confirm {margin:50px 0;text-align:center;}
+input[type=submit] {width:150px;height:40px;background:#fff; color:#494949;border-style:none;border:1px solid lightblue;}
+textarea  {width:80%; margin:0 auto;}
